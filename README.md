@@ -26,6 +26,3 @@ python app.py
 
 ## 📊 Dataset
 Jigsaw Toxic Comment Dataset (Kaggle)
-
-## 👨‍💻 Author
-Aakash
